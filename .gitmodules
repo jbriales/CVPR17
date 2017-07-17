@@ -1,0 +1,3 @@
+[submodule "mMath"]
+	path = mMath
+	url = https://github.com/jbriales/mMath.git
